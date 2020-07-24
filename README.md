@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Ariel 👋👨🏻‍💻🚵🏻‍♂️
+
+I'm a software developer from Argentina.
 
 <!--
 **GallusAmp/GallusAmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
